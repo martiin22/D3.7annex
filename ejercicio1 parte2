@@ -1,0 +1,40 @@
+## 5.1 Annex I: Version Control System Platforms Benchmarks
+
+This section provides insights into three popular code hosting and version control solutions: GitHub, GitLab, and BitBucket.
+
+### 5.1.1 Main Features Comparative
+
+- **Number of Users:**
+  - GitHub: 73 million
+  - GitLab: 30 million
+  - BitBucket: 10 million
+
+- **Free Private Repositories:** Available for all.
+- **Free Public Repositories:** Available for all.
+- **Navigation and Usability:** Details not provided.
+- **Graphical User Interface (GUI):**
+  - GitHub: Free and Open Source, GitHub Desktop61 [Link](https://desktop.github.com/)
+  - GitLab: GitLab Desktop (Link not provided)
+  - BitBucket: Free but Proprietary, Sourcetree62 [Link](https://www.sourcetreeapp.com/)
+- **Large File Storage:** GitHub and GitLab are open source; BitBucket details not provided.
+- **3rd Party Tools Integration:** Details not provided.
+- **Integration:** Various hosting options, e.g., GitHub Pages63, GitLab Pages64, and Bitbucket Cloud65 (with limitations).
+
+### 5.1.2 Pricing Scheme (Spring 2022)
+
+- **GitHub:** Offers a range of plans from free to enterprise.
+- **GitLab:** Plans start at $15/month.
+- **BitBucket:** Plans start at $3/user/month.
+
+### 5.1.3 Popularity
+
+Popularity is measured using Google Trends based on search volume. [View Trends](https://trends.google.es/trends/explore?cat=13&date=all&q=GitHub,GitLab,BitBucket)
+
+## 5.2 Annex II: Licensing
+
+This section discusses the complexity of choosing open-source licenses and provides visual representations of licensing spectra and compatibility.
+
+## 5.3 Annex III: Resources
+
+This section lists various project sites, key sites related to the document, papers, reports, and informative sites, as well as tools and resources related to open source licensing and data management.
+
